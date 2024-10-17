@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+
+        <item
+            android:id="@+id/nav_input_text"
+            android:icon="@drawable/ic_input"
+            android:title="Input Text" />
+
+
+        <item
+            android:id="@+id/nav_avatar_sign"
+            android:icon="@drawable/ic_avatar"
+            android:title="Avatar Sign" />
+
+
+        <item
+            android:id="@+id/nav_alphabets"
+            android:icon="@drawable/ic_alphabet"
+            android:title="Alphabets" />
+
+
+    </group>
+</menu>
